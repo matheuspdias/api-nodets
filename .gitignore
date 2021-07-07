@@ -1,4 +1,5 @@
 .idea/
+pgdata/*
 .vscode/
 node_modules/
 build/
